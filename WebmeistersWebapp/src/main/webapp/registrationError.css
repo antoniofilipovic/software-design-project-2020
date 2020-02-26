@@ -1,0 +1,17 @@
+.error {
+    margin: auto;
+    margin-top: 30px;
+    width: 600px;
+    text-align: left;
+    margin-bottom: 30px;
+    background-color: #FF6666;
+    color: #FFFFFF;
+    border: 1px solid white;
+    padding: 5px 15px;
+}
+.error h1{
+    font-size: 30px;
+}
+.error h2{
+    font-size: 18px
+}

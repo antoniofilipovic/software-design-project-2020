@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+body {
+	/*height: 100%;*/
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: #FFFFFF;
+	font-family: sans-serif;
+	font-size: 17px;
+	background-size: cover;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+}
+
+.container{
+    position: relative;
+	top: 50px;
+}
+		
+li {
+	list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 30px;
+}
+		
+li a {
+	display: block;
+	text-decoration: none;
+	font-size: 20px;
+	color: #FFFFFF;
+	padding: 14px 16px;
+}
+		
+li a:hover {
+	background-color: #111;
+	text-decoration: none;
+	color:white;
+}
+	
+.specialLi {
+	float: right;
+}	
+		
+.polja{
+	margin-top: 40px;
+}
+
+
+		
+input[type=submit] {
+		background-color: black;
+		color: white;
+		padding: 5px 5px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		float: center;
+		margin-bottom:5px;
+}
+	
+.dogadaj{
+	margin-bottom: 15px;
+	border-bottom:2px solid gray;	
+}
+		
+.okvir{
+	border: 3px solid black;
+}
+	
+.verticalHorizontal{
+	display: table-cell;
+	height: 220px;
+	text-align: center;
+	 width: 220px;
+	vertical-align: middle;
+}
+
+.h2 {
+	font-size: 30px;
+	color: #333333;
+	border: crimson;
+}
+		
+.polja {
+	margin-top: 50px;
+}
+
+.btn {
+	margin-top: 5px;
+	background-color: black;
+	color: white;
+}
+
+.btnAlert {
+	background-color: red;
+	color: black;
+}
+
+.gumbi {
+	margin-right: 5px;
+}
+
+.gumbi:hover {
+	color: white;
+	background-color: gray;
+}
+
+.btnSpec {
+	width: 100%;
+}
+
+.recenzija{
+	margin-left: 30px;
+	margin-bottom: 20px;	
+}
+
+.desno{
+	border-right:2px solid gray;
+	margin-left:150px;	
+}
+
+.desnoRub{
+	border-right:2px solid gray;
+		
+}
+
+.tekst{
+	float:left;
+	margin-left:10px;	
+}
+
+.sredina{
+	border-right:3px solid gray;
+}

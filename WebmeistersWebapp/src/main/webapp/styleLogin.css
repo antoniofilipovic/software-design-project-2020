@@ -1,0 +1,106 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: url(background.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+h1{
+	font-size: 40px;
+	color: gray;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font: bold;
+	color: black;
+}
+
+.label{
+	font-size: 17px;
+	margin-top: 5px;
+	font-weight: normal;
+	color: black;
+}
+
+input {
+      border-top-style: hidden;
+      border-right-style: hidden;
+      border-left-style: hidden;
+      border-bottom-style: groove;
+      background: transparent;
+      width: 300px;
+      font-size: 18px;
+      }
+
+
+input[type=submit] {
+		background-color: black;
+		color: white;
+		padding: 5px 5px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		float: center;
+		margin-bottom:5px;
+		margin-left: 130px;
+}
+
+
+.btn-info{
+	margin-top: 20px;
+	margin-left: 150px;
+	width: 220px;
+	font-size: 19px;
+	border-radius: 1000px;
+	background: #404040;
+	border:none;
+}
+
+
+.col-md-6{
+
+	background: #e6e6e6;
+	height: 320px;
+	position: relative;
+	top: 80px;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 30px;
+}
+
+li a {
+  display: block;
+	text-decoration: none;
+	font-size: 20px;
+	color: #FFFFFF;
+	padding: 14px 16px;
+}
+
+li a:hover {
+  	background-color: #111;
+	text-decoration: none;
+	color:white;
+}
+
+.specialLi{
+	float: right;	 
+}
+
