@@ -4,9 +4,8 @@ Asistent: Nikolina Frid;
 Zadatak: NF2-ZabavaNET
 
 Članovi:
-Antonio Filipović,
+Antonio Filipović [VODITELJ],
 Petar Tišma,
-Sven Paprskar,
 Daniel Vusić,
 Daniel Marić,
 Luka Duvnjak,
